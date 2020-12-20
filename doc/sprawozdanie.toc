@@ -1,0 +1,12 @@
+\contentsline {section}{\numberline {1}Wst\IeC {\k e}p}{1}% 
+\contentsline {section}{\numberline {2}Naturalna funkcja sklejana \MakeUppercase {iii} stopnia.}{2}% 
+\contentsline {section}{\numberline {3}Ca\IeC {\l }kowanie funkcji sklejanej \MakeUppercase {iii} stopnia.}{4}% 
+\contentsline {section}{\numberline {4}Testy numeryczne}{4}% 
+\contentsline {subsection}{\numberline {4.1}Test 1}{5}% 
+\contentsline {subsection}{\numberline {4.2}Test 2}{6}% 
+\contentsline {subsection}{\numberline {4.3}Test 3}{7}% 
+\contentsline {subsection}{\numberline {4.4}Test 4}{8}% 
+\contentsline {subsection}{\numberline {4.5}Test 5}{9}% 
+\contentsline {subsection}{\numberline {4.6}Test 6}{10}% 
+\contentsline {subsection}{\numberline {4.7}Test 7}{11}% 
+\contentsline {section}{\numberline {5}Podsumowanie}{12}% 
